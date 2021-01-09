@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369071232321",
+    "firebase_url": "https://shopnest-16fb9.firebaseio.com",
+    "project_id": "shopnest-16fb9",
+    "storage_bucket": "shopnest-16fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369071232321:android:41422393c179ab4c92fdc0",
+        "android_client_info": {
+          "package_name": "com.example.shopnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369071232321-olnbboskf66dmhfbkda6n97vtirkavcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopnest",
+            "certificate_hash": "6727fd559ae1ccea932b1fc35ab2d273c8740c23"
+          }
+        },
+        {
+          "client_id": "369071232321-14h4s0enfhjnv0kd09l75e3brbffjps3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0cjDAzpiOsVwdHMXbGBvBEngNED2EFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369071232321-14h4s0enfhjnv0kd09l75e3brbffjps3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
